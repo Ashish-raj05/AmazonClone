@@ -1,0 +1,1 @@
+This is a project on building Amazon Clone by using HTML & CSS
